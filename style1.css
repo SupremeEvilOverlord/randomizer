@@ -6,3 +6,19 @@ html, body {
 canvas {
   display:block;
 }
+
+.button {
+  background-color: black;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+   }
+
+   .button1 {
+     padding: 14px 40px;
+   }
